@@ -1,2 +1,2 @@
 #!/bin/bash
-head -x iacta | tail +x
+head -x file_name | tail +x
