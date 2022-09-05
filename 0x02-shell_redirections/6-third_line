@@ -1,2 +1,2 @@
 #!/bin/bash
-head -x file_name | tail +x
+head -3 iacta | tail +3
