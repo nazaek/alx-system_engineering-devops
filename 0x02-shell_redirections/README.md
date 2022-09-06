@@ -1,2 +1,2 @@
-#!/bin/bash
-shell redirections
+#!bin bash
+echo 'echo "Hello, World"\' > 0-hello_world
